@@ -1,0 +1,53 @@
+body{
+	font-family:New Century Schoolbook,TeX Gyre Schola,serif;
+	color:black;
+	background-image:url(img/shirpur4.jpg);
+                background-repeat:no-repeat;
+                background-size:cover;
+                opacity: 0.9;
+}
+input{
+	background-color: transparent;
+	color: black;
+}
+
+select{
+	background-color: transparent;
+	color: black;
+}
+
+textarea{
+	background-color: transparent;
+	color: black;
+}
+
+.logo{
+    	padding: 0;
+    	margin: 0;
+}
+
+.d1{
+        width: 500px;
+        height:550px;
+        background-color: white;
+        float: center;
+        color: black;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 15px 15px;
+	border-style: solid;
+	border-width: 2px;
+}
+
+.sub{
+	background-color: red;
+	border-radius: 2px;
+	border: red;
+	color: white;
+	padding: 10px 24px;
+}
+
+.sub:hover{
+	background-color: black;
+	color: white;
+}
